@@ -8,9 +8,9 @@ Usage
 
 To utilize this role, add it to the `requirements.yml` file inside the ansible folder:
 
-    - src: git+https://github.com/magenta-aps/ansible-role-vim.git
+    - src: git+https://github.com/magenta-aps/ansible-role-python.git
       version: master
-      name: vim
+      name: python
 
 Requirements
 ------------
